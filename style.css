@@ -381,6 +381,10 @@ footer .__right__socials a:last-of-type {
   }
 }
 @media (max-width: 630px) {
+  main h1 {
+    margin-top: 6rem;
+  }
+
   .creations__item {
     width: 100%;
     min-height: 240px;

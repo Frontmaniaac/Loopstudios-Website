@@ -466,6 +466,12 @@ footer {
 }
 
 @media (max-width:630px) {
+    main {
+        & h1 {
+            margin-top: 6rem;
+        }
+    }
+
     .creations {
 
         &__item {
